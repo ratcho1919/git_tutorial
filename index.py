@@ -1,2 +1,3 @@
 print('Git Tutorial')
-pritn("git status")
+print("git status")
+print("git diff")
